@@ -148,5 +148,20 @@
       }
     ],
     "createdAt": "2025-06-11T22:14:09.583Z"
+  },
+  {
+    "marque": "bonjour",
+    "model": "le",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "pe",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-11T22:15:14.548Z"
   }
 ]
