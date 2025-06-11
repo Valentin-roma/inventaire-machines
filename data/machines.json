@@ -163,5 +163,20 @@
       }
     ],
     "createdAt": "2025-06-11T22:15:14.548Z"
+  },
+  {
+    "marque": "Tektrôix",
+    "model": "Ideik",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "Irkek",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-11T22:24:59.005Z"
   }
 ]
