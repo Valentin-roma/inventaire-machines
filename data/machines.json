@@ -4848,35 +4848,5 @@
       }
     ],
     "createdAt": "2025-06-13T10:28:17.748Z"
-  },
-  {
-    "marque": "Test",
-    "model": "Ai",
-    "quantite": 1,
-    "emplacement": "A-2",
-    "unites": [
-      {
-        "numserie": "Or",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-13T12:16:32.591Z"
-  },
-  {
-    "marque": "FUSION SLM",
-    "model": "01DB",
-    "quantite": 1,
-    "emplacement": "F-2",
-    "unites": [
-      {
-        "numserie": "14522",
-        "position": "F-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-05-13"
-      }
-    ],
-    "createdAt": "2025-06-13T13:03:09.515Z"
   }
 ]
