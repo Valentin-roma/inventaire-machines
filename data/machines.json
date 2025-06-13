@@ -4863,5 +4863,20 @@
       }
     ],
     "createdAt": "2025-06-13T12:16:32.591Z"
+  },
+  {
+    "marque": "FUSION SLM",
+    "model": "01DB",
+    "quantite": 1,
+    "emplacement": "F-2",
+    "unites": [
+      {
+        "numserie": "14522",
+        "position": "F-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-05-13"
+      }
+    ],
+    "createdAt": "2025-06-13T12:53:19.636Z"
   }
 ]
