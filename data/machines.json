@@ -4835,18 +4835,18 @@
     "createdAt": "2025-06-10T16:01:52.846Z"
   },
   {
-    "marque": "FUSION SLM",
-    "model": "01DB",
+    "marque": "Coucou",
+    "model": "La",
     "quantite": 1,
-    "emplacement": "F-2",
+    "emplacement": "",
     "unites": [
       {
-        "numserie": "14522",
-        "position": "F-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-05-13"
+        "numserie": "France",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-13T12:53:19.636Z"
+    "createdAt": "2025-06-13T10:28:17.748Z"
   }
 ]
