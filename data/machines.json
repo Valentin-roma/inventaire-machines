@@ -4848,5 +4848,20 @@
       }
     ],
     "createdAt": "2025-06-13T10:28:17.748Z"
+  },
+  {
+    "marque": "Test",
+    "model": "Ai",
+    "quantite": 1,
+    "emplacement": "A-2",
+    "unites": [
+      {
+        "numserie": "Or",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-13T12:16:32.591Z"
   }
 ]
