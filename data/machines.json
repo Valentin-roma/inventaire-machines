@@ -4835,21 +4835,6 @@
     "createdAt": "2025-06-10T16:01:52.846Z"
   },
   {
-    "marque": "Coucou",
-    "model": "La",
-    "quantite": 1,
-    "emplacement": "",
-    "unites": [
-      {
-        "numserie": "France",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-13T10:28:17.748Z"
-  },
-  {
     "marque": "FUSION SLM",
     "model": "01DB",
     "quantite": 1,
