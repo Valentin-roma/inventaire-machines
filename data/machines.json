@@ -5123,5 +5123,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:52:49.645Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "TE65 SONDE",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:54:14.448Z"
   }
 ]
