@@ -5174,5 +5174,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:59:07.902Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "GHT114",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:00:50.501Z"
   }
 ]
