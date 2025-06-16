@@ -4848,5 +4848,20 @@
       }
     ],
     "createdAt": "2025-06-13T10:28:17.748Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "CA8336",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "54254",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:56:19.277Z"
   }
 ]
