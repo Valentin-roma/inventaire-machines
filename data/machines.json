@@ -5480,5 +5480,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:13:06.160Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "S4258A",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "MY44000718",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:13:52.988Z"
   }
 ]
