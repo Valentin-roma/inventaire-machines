@@ -5933,5 +5933,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:37:22.844Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N3301A",
+    "quantite": 1,
+    "emplacement": "J-2",
+    "unites": [
+      {
+        "numserie": "MY4100819",
+        "position": "J-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:39:40.473Z"
   }
 ]
