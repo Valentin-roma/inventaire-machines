@@ -5261,5 +5261,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:32:23.349Z"
+  },
+  {
+    "marque": "WILLTECK",
+    "model": "4202R",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "0813514",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:32:59.002Z"
   }
 ]
