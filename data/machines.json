@@ -5078,5 +5078,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:28:27.684Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N9320B",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "CN03225025",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:29:18.807Z"
   }
 ]
