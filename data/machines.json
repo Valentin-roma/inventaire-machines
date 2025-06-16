@@ -5450,5 +5450,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:10:19.387Z"
+  },
+  {
+    "marque": "AEROFLEX",
+    "model": "3251",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "unites": [
+      {
+        "numserie": "1604004",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:11:22.443Z"
   }
 ]
