@@ -3433,7 +3433,7 @@
   {
     "marque": "AGILENT",
     "model": "3458A",
-    "quantite": 2,
+    "quantite": 3,
     "unites": [
       {
         "numserie": "2823A01207",
@@ -3446,12 +3446,18 @@
         "etatcvi": "non",
         "position": "F-5",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "MY45048957",
+        "position": "H-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-10T09:39:12.304Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5 + H-1"
   },
   {
     "marque": "KEITHLEY",
@@ -4895,20 +4901,5 @@
       }
     ],
     "createdAt": "2025-06-16T10:24:10.760Z"
-  },
-  {
-    "marque": "AEROFLEX",
-    "model": "3920B",
-    "quantite": 1,
-    "emplacement": "H-1",
-    "unites": [
-      {
-        "numserie": "1001681618",
-        "position": "H-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-16T10:26:58.486Z"
   }
 ]
