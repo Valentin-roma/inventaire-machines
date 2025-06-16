@@ -5108,5 +5108,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:40:48.697Z"
+  },
+  {
+    "marque": "HP",
+    "model": "16034E",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:52:49.645Z"
   }
 ]
