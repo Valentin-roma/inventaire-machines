@@ -5095,18 +5095,18 @@
     "createdAt": "2025-06-16T12:30:18.046Z"
   },
   {
-    "marque": "METRIX",
-    "model": "OX724-CSD",
+    "marque": "SEFELEC",
+    "model": "RX556",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:30:48.294Z"
+    "createdAt": "2025-06-16T12:40:48.697Z"
   }
 ]
