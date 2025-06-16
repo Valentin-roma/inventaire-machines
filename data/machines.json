@@ -6023,5 +6023,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:49:33.126Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "1682AD",
+    "quantite": 1,
+    "emplacement": "J-1",
+    "unites": [
+      {
+        "numserie": "MY41000633",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:50:16.554Z"
   }
 ]
