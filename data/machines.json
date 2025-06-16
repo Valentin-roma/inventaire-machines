@@ -4872,8 +4872,8 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
-    "quantite": 9,
-    "emplacement": "I-1 + H-4",
+    "quantite": 10,
+    "emplacement": "I-1 + H-4 + J-4",
     "unites": [
       {
         "numserie": "197866",
@@ -4927,6 +4927,12 @@
         "numserie": "201957",
         "etatcvi": "non",
         "position": "H-4",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "191101WGH",
+        "position": "J-4",
+        "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
