@@ -5573,5 +5573,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:23:46.879Z"
+  },
+  {
+    "marque": "CHROMA",
+    "model": "6314",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "63142366",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
+      }
+    ],
+    "createdAt": "2025-06-16T14:25:32.333Z"
   }
 ]
