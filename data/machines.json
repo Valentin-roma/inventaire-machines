@@ -4931,5 +4931,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:05:32.321Z"
+  },
+  {
+    "marque": "HP",
+    "model": "8970A",
+    "quantite": 1,
+    "emplacement": "H-1",
+    "unites": [
+      {
+        "numserie": "2303A01451",
+        "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:06:29.082Z"
   }
 ]
