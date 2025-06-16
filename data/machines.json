@@ -5510,5 +5510,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:16:10.079Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "54852A",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "MY44000718",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-11-01"
+      }
+    ],
+    "createdAt": "2025-06-16T14:19:45.455Z"
   }
 ]
