@@ -5080,18 +5080,18 @@
     "createdAt": "2025-06-16T12:28:27.684Z"
   },
   {
-    "marque": "AGILENT",
-    "model": "N9320B",
+    "marque": "TREND NETWORKS",
+    "model": "FIBRE OPTIQUE",
     "quantite": 1,
     "emplacement": "H-3",
     "unites": [
       {
-        "numserie": "CN03225025",
+        "numserie": "ACCESSOIRES",
         "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:29:18.807Z"
+    "createdAt": "2025-06-16T12:30:18.046Z"
   }
 ]
