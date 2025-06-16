@@ -5660,5 +5660,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:40:46.982Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "ESR26",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "101426",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:41:06.701Z"
   }
 ]
