@@ -4991,5 +4991,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:14:57.322Z"
+  },
+  {
+    "marque": "ADRET",
+    "model": "7100D",
+    "quantite": 1,
+    "emplacement": "H-2",
+    "unites": [
+      {
+        "numserie": "386616",
+        "position": "H-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:15:39.175Z"
   }
 ]
