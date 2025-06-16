@@ -5645,5 +5645,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:38:40.384Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "SMB100A",
+    "quantite": 1,
+    "emplacement": "M-4",
+    "unites": [
+      {
+        "numserie": "113658",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:40:46.982Z"
   }
 ]
