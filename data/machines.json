@@ -4829,5 +4829,20 @@
       }
     ],
     "createdAt": "2025-06-16T10:17:49.693Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "E4990A",
+    "quantite": 1,
+    "emplacement": "I-1",
+    "unites": [
+      {
+        "numserie": "MY5410092A",
+        "position": "I-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-11-01"
+      }
+    ],
+    "createdAt": "2025-06-16T10:18:48.237Z"
   }
 ]
