@@ -5690,5 +5690,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:45:06.569Z"
+  },
+  {
+    "marque": "PMM",
+    "model": "L3-32",
+    "quantite": 1,
+    "emplacement": "M-4",
+    "unites": [
+      {
+        "numserie": "22WT50824",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:45:31.050Z"
   }
 ]
