@@ -5605,18 +5605,18 @@
     "createdAt": "2025-06-16T14:32:03.447Z"
   },
   {
-    "marque": "PONTIS",
-    "model": "CON4",
+    "marque": "ROHDE & SCHWARZ",
+    "model": "OSP130",
     "quantite": 1,
     "emplacement": "M-4",
     "unites": [
       {
-        "numserie": "6061346314",
+        "numserie": "100893",
         "position": "M-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T14:34:55.107Z"
+    "createdAt": "2025-06-16T14:36:24.258Z"
   }
 ]
