@@ -5191,18 +5191,18 @@
     "createdAt": "2025-06-16T13:01:25.350Z"
   },
   {
-    "marque": "HP",
-    "model": "16060A",
+    "marque": "AGILENT",
+    "model": "16493S",
     "quantite": 1,
     "emplacement": "H-3",
     "unites": [
       {
-        "numserie": "ACCESSOIRES",
+        "numserie": "9001791208",
         "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:04:59.584Z"
+    "createdAt": "2025-06-16T13:05:52.798Z"
   }
 ]
