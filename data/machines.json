@@ -4647,12 +4647,18 @@
   {
     "marque": "HP",
     "model": "16047A",
-    "quantite": 1,
-    "emplacement": "I-3",
+    "quantite": 2,
+    "emplacement": "I-3 + H-3",
     "unites": [
       {
         "numserie": "16047A161121",
         "position": "I-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "@",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
