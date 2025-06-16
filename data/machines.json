@@ -5692,18 +5692,18 @@
     "createdAt": "2025-06-16T14:45:06.569Z"
   },
   {
-    "marque": "PMM",
-    "model": "L3-32",
+    "marque": "HP",
+    "model": "3585A",
     "quantite": 1,
-    "emplacement": "M-4",
+    "emplacement": "M-1",
     "unites": [
       {
-        "numserie": "22WT50824",
-        "position": "M-4",
+        "numserie": "1750A02514",
+        "position": "M-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T14:45:31.050Z"
+    "createdAt": "2025-06-16T14:47:10.011Z"
   }
 ]
