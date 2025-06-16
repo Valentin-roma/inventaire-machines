@@ -5206,18 +5206,18 @@
     "createdAt": "2025-06-16T13:05:52.798Z"
   },
   {
-    "marque": "TEKTRONIX",
-    "model": "DPO5054B",
+    "marque": "AGILENT",
+    "model": "4980A",
     "quantite": 1,
-    "emplacement": "B-3",
+    "emplacement": "H-3",
     "unites": [
       {
-        "numserie": "C040207",
-        "position": "B-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-06-01"
+        "numserie": "MY46202938",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:09:20.400Z"
+    "createdAt": "2025-06-16T13:12:01.759Z"
   }
 ]
