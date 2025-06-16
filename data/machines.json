@@ -4872,7 +4872,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
-    "quantite": 11,
+    "quantite": 10,
     "emplacement": "I-1 + H-4 + J-4",
     "unites": [
       {
@@ -4931,12 +4931,6 @@
       },
       {
         "numserie": "191101WGH",
-        "position": "J-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "197862YKH",
         "position": "J-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -5897,5 +5891,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:20:44.132Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "DSX5000",
+    "quantite": 1,
+    "emplacement": "J-4",
+    "unites": [
+      {
+        "numserie": "20263009/19500016",
+        "position": "J-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-01-01"
+      }
+    ],
+    "createdAt": "2025-06-16T15:29:36.693Z"
   }
 ]
