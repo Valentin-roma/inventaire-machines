@@ -5176,18 +5176,18 @@
     "createdAt": "2025-06-16T12:59:07.902Z"
   },
   {
-    "marque": "SEFELEC",
-    "model": "GHT114",
+    "marque": "HP",
+    "model": "16089D",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:00:50.501Z"
+    "createdAt": "2025-06-16T13:01:25.350Z"
   }
 ]
