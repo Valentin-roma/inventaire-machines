@@ -4901,5 +4901,20 @@
       }
     ],
     "createdAt": "2025-06-16T10:24:10.760Z"
+  },
+  {
+    "marque": "WAYNE KERR",
+    "model": "6500B",
+    "quantite": 1,
+    "emplacement": "H-1",
+    "unites": [
+      {
+        "numserie": "1091324",
+        "position": "H-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
+      }
+    ],
+    "createdAt": "2025-06-16T10:30:49.141Z"
   }
 ]
