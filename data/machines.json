@@ -5773,10 +5773,10 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "",
+        "numserie": "803422022766820003",
         "etatcvi": "non",
-        "dateFinCVI": ""
+        "position": "M-1",
+        "dateFinCVI": null
       }
     ],
     "createdAt": "2025-06-16T14:58:31.749Z"
