@@ -5246,5 +5246,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
+  },
+  {
+    "marque": "@",
+    "model": "SONDE DE TEST",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:25:33.394Z"
   }
 ]
