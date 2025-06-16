@@ -5021,5 +5021,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:19:58.259Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "565",
+    "quantite": 1,
+    "emplacement": "H-4",
+    "unites": [
+      {
+        "numserie": "2456079",
+        "position": "H-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:21:13.609Z"
   }
 ]
