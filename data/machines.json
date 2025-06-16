@@ -1024,23 +1024,6 @@
     "emplacement": "B-3"
   },
   {
-    "marque": "TEKTRONIX",
-    "model": "AFG3102",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C024233",
-        "etatcvi": "non",
-        "position": "MENOVA",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-10T09:39:12.303Z",
-    "emplacement": "A-5"
-  },
-  {
     "marque": "TELEDYNE LECROY",
     "model": "ACCESSOIRES POUR HDO6104MS",
     "quantite": 1,
