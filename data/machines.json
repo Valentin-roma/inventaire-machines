@@ -4946,5 +4946,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:07:05.854Z"
+  },
+  {
+    "marque": "HP",
+    "model": "4396A",
+    "quantite": 1,
+    "emplacement": "H-1",
+    "unites": [
+      {
+        "numserie": "3413J00690",
+        "position": "H-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-05-01"
+      }
+    ],
+    "createdAt": "2025-06-16T12:08:22.060Z"
   }
 ]
