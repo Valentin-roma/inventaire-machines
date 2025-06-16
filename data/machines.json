@@ -5066,17 +5066,17 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TSG601",
+    "model": "SDA601",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "",
     "unites": [
       {
-        "numserie": "B041300",
-        "position": "H-3",
+        "numserie": "B030986",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:28:03.761Z"
+    "createdAt": "2025-06-16T12:28:27.684Z"
   }
 ]
