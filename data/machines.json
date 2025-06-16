@@ -5789,5 +5789,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:04:53.841Z"
+  },
+  {
+    "marque": "HP",
+    "model": "4194A/375(OPTION)",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "2830501576",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:06:43.041Z"
   }
 ]
