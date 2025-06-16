@@ -6011,17 +6011,17 @@
   },
   {
     "marque": "AGILENT",
-    "model": "1680AD",
+    "model": "16802A",
     "quantite": 1,
     "emplacement": "J-1",
     "unites": [
       {
-        "numserie": "MY41001131",
+        "numserie": "MY46001243",
         "position": "J-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T15:48:37.454Z"
+    "createdAt": "2025-06-16T15:49:33.126Z"
   }
 ]
