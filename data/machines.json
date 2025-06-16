@@ -5219,9 +5219,9 @@
     "unites": [
       {
         "numserie": "MY46202938",
+        "etatcvi": "oui",
         "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2025-10-01"
       }
     ],
     "createdAt": "2025-06-16T13:12:01.759Z"
@@ -5246,44 +5246,5 @@
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
-  },
-  {
-    "marque": "FGH",
-    "model": "ADC",
-    "quantite": 5,
-    "emplacement": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-16T13:26:25.883Z"
   }
 ]
