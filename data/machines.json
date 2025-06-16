@@ -5204,5 +5204,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:05:52.798Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "DPO5054B",
+    "quantite": 1,
+    "emplacement": "B-3",
+    "unites": [
+      {
+        "numserie": "C040207",
+        "position": "B-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-06-01"
+      }
+    ],
+    "createdAt": "2025-06-16T13:09:20.400Z"
   }
 ]
