@@ -5068,12 +5068,12 @@
     "marque": "TEKTRONIX",
     "model": "SDA601",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "unites": [
       {
         "numserie": "B030986",
-        "position": "",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       }
     ],
