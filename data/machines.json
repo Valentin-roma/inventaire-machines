@@ -5327,5 +5327,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:44:13.641Z"
+  },
+  {
+    "marque": "WAYNE KERR",
+    "model": "3260B",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:49:40.015Z"
   }
 ]
