@@ -5391,11 +5391,17 @@
   {
     "marque": "FLUKE",
     "model": "DSXPLA004",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "M-3",
     "unites": [
       {
         "numserie": "24470404",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "24470406",
         "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
