@@ -5709,7 +5709,7 @@
   {
     "marque": "ITECH",
     "model": "M3312",
-    "quantite": 10,
+    "quantite": 11,
     "emplacement": "M-1",
     "unites": [
       {
@@ -5771,6 +5771,12 @@
         "etatcvi": "non",
         "position": "M-1",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": ""
       }
     ],
     "createdAt": "2025-06-16T14:58:31.749Z"
