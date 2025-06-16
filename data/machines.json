@@ -5113,12 +5113,12 @@
     "marque": "HP",
     "model": "16034E",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       }
     ],
