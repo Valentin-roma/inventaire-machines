@@ -5063,5 +5063,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:27:25.520Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TSG601",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "B041300",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:28:03.761Z"
   }
 ]
