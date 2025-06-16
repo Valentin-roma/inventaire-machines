@@ -5627,20 +5627,20 @@
     "unites": [
       {
         "numserie": "101261",
-        "position": "M-4",
         "etatcvi": "non",
+        "position": "M-4",
         "dateFinCVI": null
       },
       {
         "numserie": "101262",
-        "position": "M-4",
         "etatcvi": "non",
+        "position": "M-4",
         "dateFinCVI": null
       },
       {
         "numserie": "101268",
-        "position": "M-4",
         "etatcvi": "non",
+        "position": "M-4",
         "dateFinCVI": null
       }
     ],
