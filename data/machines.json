@@ -5819,5 +5819,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:09:01.600Z"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "CA6161",
+    "quantite": 1,
+    "emplacement": "J-3",
+    "unites": [
+      {
+        "numserie": "220291WKH",
+        "position": "J-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-06-01"
+      }
+    ],
+    "createdAt": "2025-06-16T15:10:38.722Z"
   }
 ]
