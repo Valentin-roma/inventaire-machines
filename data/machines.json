@@ -5957,9 +5957,9 @@
     "unites": [
       {
         "numserie": "827758/004",
+        "etatcvi": "oui",
         "position": "J-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2025-01-01"
       }
     ],
     "createdAt": "2025-06-16T15:40:17.446Z"
