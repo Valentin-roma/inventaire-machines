@@ -5234,15 +5234,15 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "",
+        "numserie": "ACCESSOIRES2",
         "etatcvi": "non",
-        "dateFinCVI": ""
+        "position": "",
+        "dateFinCVI": null
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
