@@ -5918,5 +5918,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:29:36.693Z"
+  },
+  {
+    "marque": "WILLTEK",
+    "model": "4202R",
+    "quantite": 1,
+    "emplacement": "J-2",
+    "unites": [
+      {
+        "numserie": "0413088",
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      }
+    ],
+    "createdAt": "2025-06-16T15:37:22.844Z"
   }
 ]
