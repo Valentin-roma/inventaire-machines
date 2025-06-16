@@ -5804,5 +5804,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:06:43.041Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "1664FC",
+    "quantite": 1,
+    "emplacement": "J-3",
+    "unites": [
+      {
+        "numserie": "5394166",
+        "position": "J-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:09:01.600Z"
   }
 ]
