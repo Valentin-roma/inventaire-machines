@@ -4627,18 +4627,18 @@
     "marque": "AGILENT",
     "model": "16334A",
     "quantite": 2,
-    "emplacement": "I-3 + H-3+DLSJGNLDNLNDFNSNLFLE+KL?GKLDSGLJKNDLGSD+KDN?GLISDNOIG",
+    "emplacement": "I-3 + H-3",
     "unites": [
       {
         "numserie": "MY44102483",
-        "position": "I-3",
         "etatcvi": "non",
+        "position": "I-3",
         "dateFinCVI": null
       },
       {
         "numserie": "MY44101866",
-        "position": "H-3+DLSJGNLDNLNDFNSNLFLE+KL?GKLDSGLJKNDLGSD+KDN?GLISDNOIG",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       }
     ],
