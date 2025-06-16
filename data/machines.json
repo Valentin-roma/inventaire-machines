@@ -5246,20 +5246,5 @@
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
-  },
-  {
-    "marque": "ACD",
-    "model": "FGH",
-    "quantite": 1,
-    "emplacement": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-16T13:25:48.039Z"
   }
 ]
