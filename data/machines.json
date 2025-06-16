@@ -5774,5 +5774,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:58:31.749Z"
+  },
+  {
+    "marque": "SCHWARZBEK",
+    "model": "8121",
+    "quantite": 1,
+    "emplacement": "M-1",
+    "unites": [
+      {
+        "numserie": "8121356",
+        "position": "M-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:04:53.841Z"
   }
 ]
