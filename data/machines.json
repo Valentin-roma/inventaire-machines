@@ -5159,5 +5159,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:55:14.748Z"
+  },
+  {
+    "marque": "PINCE CROCO",
+    "model": "PINCE CROCO",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRESS",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:59:07.902Z"
   }
 ]
