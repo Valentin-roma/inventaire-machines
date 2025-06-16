@@ -4895,5 +4895,20 @@
       }
     ],
     "createdAt": "2025-06-16T10:24:10.760Z"
+  },
+  {
+    "marque": "AEROFLEX",
+    "model": "3920B",
+    "quantite": 1,
+    "emplacement": "H-1",
+    "unites": [
+      {
+        "numserie": "1001681618",
+        "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T10:26:58.486Z"
   }
 ]
