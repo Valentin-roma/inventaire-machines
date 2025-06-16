@@ -5391,7 +5391,7 @@
   {
     "marque": "FLUKE",
     "model": "DSXPLA004",
-    "quantite": 2,
+    "quantite": 1,
     "emplacement": "M-3",
     "unites": [
       {
@@ -5399,14 +5399,23 @@
         "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
+      }
+    ],
+    "createdAt": "2025-06-16T14:03:14.632Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "USB2-GPIB",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "unites": [
       {
-        "numserie": "24470406",
+        "numserie": "ACCESSOIRES",
         "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T14:03:14.632Z"
+    "createdAt": "2025-06-16T14:04:47.831Z"
   }
 ]
