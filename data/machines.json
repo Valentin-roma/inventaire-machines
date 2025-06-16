@@ -5540,5 +5540,38 @@
       }
     ],
     "createdAt": "2025-06-16T14:21:27.314Z"
+  },
+  {
+    "marque": "CHROMA",
+    "model": "63102",
+    "quantite": 4,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "MODULES",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
+      },
+      {
+        "numserie": "MODULES",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
+      },
+      {
+        "numserie": "MODULES",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
+      },
+      {
+        "numserie": "MODULES",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
+      }
+    ],
+    "createdAt": "2025-06-16T14:23:46.879Z"
   }
 ]
