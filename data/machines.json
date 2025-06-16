@@ -5342,5 +5342,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:49:40.015Z"
+  },
+  {
+    "marque": "ANRITSU",
+    "model": "MS46121B",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "unites": [
+      {
+        "numserie": "1746447",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:58:11.455Z"
   }
 ]
