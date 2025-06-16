@@ -5093,5 +5093,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:30:18.046Z"
+  },
+  {
+    "marque": "METRIX",
+    "model": "OX724-CSD",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:30:48.294Z"
   }
 ]
