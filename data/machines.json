@@ -5357,5 +5357,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:58:11.455Z"
+  },
+  {
+    "marque": "ANTRITSU",
+    "model": "OSLNF50-1",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "unites": [
+      {
+        "numserie": "0928021",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:59:12.763Z"
   }
 ]
