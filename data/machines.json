@@ -5153,5 +5153,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:55:14.748Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "2715",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "1867080",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:56:37.409Z"
   }
 ]
