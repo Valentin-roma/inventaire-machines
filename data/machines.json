@@ -5963,5 +5963,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:40:17.446Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "T3EL5001SP",
+    "quantite": 1,
+    "emplacement": "J-2",
+    "unites": [
+      {
+        "numserie": "T0407T19370022",
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
+      }
+    ],
+    "createdAt": "2025-06-16T15:45:25.995Z"
   }
 ]
