@@ -5024,17 +5024,17 @@
   },
   {
     "marque": "SEFELEC",
-    "model": "565",
+    "model": "1050M",
     "quantite": 1,
     "emplacement": "H-4",
     "unites": [
       {
-        "numserie": "2456079",
+        "numserie": "2456098",
         "position": "H-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:21:13.609Z"
+    "createdAt": "2025-06-16T12:21:50.872Z"
   }
 ]
