@@ -6008,5 +6008,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:48:02.390Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "1680AD",
+    "quantite": 1,
+    "emplacement": "J-1",
+    "unites": [
+      {
+        "numserie": "MY41001131",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:48:37.454Z"
   }
 ]
