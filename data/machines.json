@@ -5895,7 +5895,7 @@
   {
     "marque": "FLUKE",
     "model": "DSX5000",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "J-4",
     "unites": [
       {
@@ -5903,6 +5903,12 @@
         "position": "J-4",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-01"
+      },
+      {
+        "numserie": "19385063/19360763",
+        "position": "J-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-05-01"
       }
     ],
     "createdAt": "2025-06-16T15:29:36.693Z"
