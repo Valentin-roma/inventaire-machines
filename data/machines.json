@@ -5229,9 +5229,15 @@
   {
     "marque": "SEFELEC",
     "model": "GHT115",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "H-3",
     "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
       {
         "numserie": "ACCESSOIRES",
         "position": "H-3",
