@@ -5618,5 +5618,32 @@
       }
     ],
     "createdAt": "2025-06-16T14:36:24.258Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "OSPB131",
+    "quantite": 3,
+    "emplacement": "M-4",
+    "unites": [
+      {
+        "numserie": "101261",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "101262",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "101268",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:38:40.384Z"
   }
 ]
