@@ -4816,18 +4816,18 @@
     "createdAt": "2025-06-16T10:14:48.207Z"
   },
   {
-    "marque": "RACAL",
-    "model": "6103",
+    "marque": "AGILENT",
+    "model": "N9030A",
     "quantite": 1,
     "emplacement": "I-1",
     "unites": [
       {
-        "numserie": "61031273",
+        "numserie": "MY49431173",
         "position": "I-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T10:15:20.794Z"
+    "createdAt": "2025-06-16T10:17:49.693Z"
   }
 ]
