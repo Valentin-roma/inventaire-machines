@@ -5525,5 +5525,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:19:45.455Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS420A",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "B010163",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:21:27.314Z"
   }
 ]
