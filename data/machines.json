@@ -5263,18 +5263,18 @@
     "createdAt": "2025-06-16T13:32:23.349Z"
   },
   {
-    "marque": "WILLTECK",
+    "marque": "WAVETEK",
     "model": "4202R",
     "quantite": 1,
     "emplacement": "H-3",
     "unites": [
       {
-        "numserie": "0813514",
+        "numserie": "0413521",
         "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:32:59.002Z"
+    "createdAt": "2025-06-16T13:33:35.578Z"
   }
 ]
