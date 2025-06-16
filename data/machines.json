@@ -5246,5 +5246,44 @@
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
+  },
+  {
+    "marque": "FGH",
+    "model": "ADC",
+    "quantite": 5,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:26:25.883Z"
   }
 ]
