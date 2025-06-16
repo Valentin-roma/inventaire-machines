@@ -5311,18 +5311,18 @@
     "marque": "@",
     "model": "SONDE DE TEST",
     "quantite": 2,
-    "emplacement": "",
+    "emplacement": "H-3",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       },
       {
         "numserie": "ACCESSOIRES2",
-        "position": "",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       }
     ],
