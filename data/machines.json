@@ -4626,12 +4626,18 @@
   {
     "marque": "AGILENT",
     "model": "16334A",
-    "quantite": 1,
-    "emplacement": "I-3",
+    "quantite": 2,
+    "emplacement": "I-3 + H-3+DLSJGNLDNLNDFNSNLFLE+KL?GKLDSGLJKNDLGSD+KDN?GLISDNOIG",
     "unites": [
       {
         "numserie": "MY44102483",
         "position": "I-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY44101866",
+        "position": "H-3+DLSJGNLDNLNDFNSNLFLE+KL?GKLDSGLJKNDLGSD+KDN?GLISDNOIG",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5153,20 +5159,5 @@
       }
     ],
     "createdAt": "2025-06-16T12:55:14.748Z"
-  },
-  {
-    "marque": "SEFELEC",
-    "model": "2715",
-    "quantite": 1,
-    "emplacement": "H-3",
-    "unites": [
-      {
-        "numserie": "1867080",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-16T12:56:37.409Z"
   }
 ]
