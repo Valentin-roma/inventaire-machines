@@ -5995,18 +5995,18 @@
     "createdAt": "2025-06-16T15:46:34.872Z"
   },
   {
-    "marque": "RPODIGIT",
-    "model": "3310F",
+    "marque": "AGILENT",
+    "model": "1680A",
     "quantite": 1,
-    "emplacement": "J-2",
+    "emplacement": "J-1",
     "unites": [
       {
-        "numserie": "20702FL0524",
-        "position": "J-2",
+        "numserie": "MY4100521",
+        "position": "J-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T15:47:17.427Z"
+    "createdAt": "2025-06-16T15:48:02.390Z"
   }
 ]
