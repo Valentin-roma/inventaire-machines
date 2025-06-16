@@ -5239,10 +5239,10 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "numserie": "",
+        "position": "",
         "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": ""
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
