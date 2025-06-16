@@ -1038,23 +1038,6 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-10T09:39:12.303Z",
-    "emplacement": "MENOVA"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "WAVESURFER510",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY4501N30314",
-        "etatcvi": "oui",
-        "position": "A-5",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-10T09:39:12.303Z",
     "emplacement": "A-5"
   },
   {
