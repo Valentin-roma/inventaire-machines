@@ -5291,5 +5291,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:34:27.762Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "PM6306",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "945206306021",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:35:43.673Z"
   }
 ]
