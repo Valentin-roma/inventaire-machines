@@ -5048,5 +5048,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:21:50.872Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "NGA100",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "20266-ATWILC1000",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T12:27:25.520Z"
   }
 ]
