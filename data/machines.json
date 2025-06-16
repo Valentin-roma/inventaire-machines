@@ -5465,5 +5465,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:11:22.443Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS694C",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "B011354",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:13:06.160Z"
   }
 ]
