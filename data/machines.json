@@ -4844,5 +4844,56 @@
       }
     ],
     "createdAt": "2025-06-16T10:18:48.237Z"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "CA8336",
+    "quantite": 7,
+    "emplacement": "I-1",
+    "unites": [
+      {
+        "numserie": "197866",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "197860",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "197861",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "197865",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "201959",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "201960",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "197869",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T10:24:10.760Z"
   }
 ]
