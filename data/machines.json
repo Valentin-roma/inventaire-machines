@@ -5359,21 +5359,6 @@
     "createdAt": "2025-06-16T13:58:11.455Z"
   },
   {
-    "marque": "FLUKE",
-    "model": "DSXPLAA004",
-    "quantite": 1,
-    "emplacement": "M-3",
-    "unites": [
-      {
-        "numserie": "24470404",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-16T14:00:26.014Z"
-  },
-  {
     "marque": "AGILENT",
     "model": "4395A",
     "quantite": 1,
