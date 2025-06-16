@@ -5675,5 +5675,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:41:06.701Z"
+  },
+  {
+    "marque": "DARE",
+    "model": "RODI POWER",
+    "quantite": 1,
+    "emplacement": "M-4",
+    "unites": [
+      {
+        "numserie": "15I000375N066",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:45:06.569Z"
   }
 ]
