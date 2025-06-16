@@ -5855,5 +5855,20 @@
       }
     ],
     "createdAt": "2025-06-16T15:12:39.678Z"
+  },
+  {
+    "marque": "MULTIMETRIX",
+    "model": "ERT201",
+    "quantite": 1,
+    "emplacement": "J-3",
+    "unites": [
+      {
+        "numserie": "9928692",
+        "position": "J-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T15:16:27.730Z"
   }
 ]
