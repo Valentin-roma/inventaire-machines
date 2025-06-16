@@ -5248,18 +5248,18 @@
     "createdAt": "2025-06-16T13:17:38.011Z"
   },
   {
-    "marque": "@",
-    "model": "SONDE DE TEST",
+    "marque": "ACD",
+    "model": "FGH",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "",
     "unites": [
       {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "numserie": "",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:25:33.394Z"
+    "createdAt": "2025-06-16T13:25:48.039Z"
   }
 ]
