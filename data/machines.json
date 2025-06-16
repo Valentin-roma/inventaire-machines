@@ -5008,18 +5008,18 @@
     "createdAt": "2025-06-16T12:16:33.119Z"
   },
   {
-    "marque": "HP",
-    "model": "85047A",
+    "marque": "GW INSTEK",
+    "model": "APS5050E",
     "quantite": 1,
-    "emplacement": "H-1",
+    "emplacement": "H-4",
     "unites": [
       {
-        "numserie": "2904A0062",
-        "position": "H-1",
+        "numserie": "GEW120577",
+        "position": "H-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:18:33.584Z"
+    "createdAt": "2025-06-16T12:19:58.259Z"
   }
 ]
