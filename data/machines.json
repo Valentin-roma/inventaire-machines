@@ -5435,5 +5435,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:04:47.831Z"
+  },
+  {
+    "marque": "ELC",
+    "model": "AL991S",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "unites": [
+      {
+        "numserie": "J/0023",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:10:19.387Z"
   }
 ]
