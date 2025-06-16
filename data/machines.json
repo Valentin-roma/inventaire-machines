@@ -4976,5 +4976,20 @@
       }
     ],
     "createdAt": "2025-06-16T12:13:05.924Z"
+  },
+  {
+    "marque": "HP",
+    "model": "4195A (OPTION)",
+    "quantite": 1,
+    "emplacement": "H-2",
+    "unites": [
+      {
+        "numserie": "2904J03291",
+        "position": "H-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-03-01"
+      }
+    ],
+    "createdAt": "2025-06-16T12:14:57.322Z"
   }
 ]
