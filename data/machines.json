@@ -5228,17 +5228,17 @@
   },
   {
     "marque": "SEFELEC",
-    "model": "TE75 SONDE",
+    "model": "GHT115",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:16:55.907Z"
+    "createdAt": "2025-06-16T13:17:38.011Z"
   }
 ]
