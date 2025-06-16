@@ -4933,18 +4933,18 @@
     "createdAt": "2025-06-16T12:05:32.321Z"
   },
   {
-    "marque": "HP",
-    "model": "8970A",
+    "marque": "AGILENT",
+    "model": "4294A",
     "quantite": 1,
     "emplacement": "H-1",
     "unites": [
       {
-        "numserie": "2303A01451",
+        "numserie": "JP2JG00653",
         "position": "H-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:06:29.082Z"
+    "createdAt": "2025-06-16T12:07:05.854Z"
   }
 ]
