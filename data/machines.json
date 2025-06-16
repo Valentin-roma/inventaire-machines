@@ -4491,12 +4491,18 @@
   {
     "marque": "GW INSTEK",
     "model": "GPT12004",
-    "quantite": 1,
-    "emplacement": "I-2",
+    "quantite": 2,
+    "emplacement": "I-2 + M-3",
     "unites": [
       {
         "numserie": "GEW161427",
         "position": "I-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "GEX211317",
+        "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
