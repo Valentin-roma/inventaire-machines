@@ -5246,5 +5246,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:17:38.011Z"
+  },
+  {
+    "marque": "ANTRITSU",
+    "model": "MT8852B",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "unites": [
+      {
+        "numserie": "6K00005726",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:32:23.349Z"
   }
 ]
