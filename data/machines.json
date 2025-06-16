@@ -5495,5 +5495,20 @@
       }
     ],
     "createdAt": "2025-06-16T14:14:56.568Z"
+  },
+  {
+    "marque": "BK PRECISION",
+    "model": "XLN3640",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "unites": [
+      {
+        "numserie": "275K21155",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T14:16:10.079Z"
   }
 ]
