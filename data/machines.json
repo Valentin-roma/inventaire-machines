@@ -4799,5 +4799,20 @@
       }
     ],
     "createdAt": "2025-06-10T16:01:52.846Z"
+  },
+  {
+    "marque": "ANRITSU",
+    "model": "MG3692A",
+    "quantite": 1,
+    "emplacement": "I-1",
+    "unites": [
+      {
+        "numserie": "030608",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T10:14:48.207Z"
   }
 ]
