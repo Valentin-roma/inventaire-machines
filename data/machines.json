@@ -5306,5 +5306,26 @@
       }
     ],
     "createdAt": "2025-06-16T13:35:43.673Z"
+  },
+  {
+    "marque": "@",
+    "model": "SONDE DE TEST",
+    "quantite": 2,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "ACCESSOIRES2",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:44:13.641Z"
   }
 ]
