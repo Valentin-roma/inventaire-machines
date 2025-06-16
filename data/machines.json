@@ -5225,5 +5225,20 @@
       }
     ],
     "createdAt": "2025-06-16T13:12:01.759Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "TE75 SONDE",
+    "quantite": 1,
+    "emplacement": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-16T13:16:55.907Z"
   }
 ]
