@@ -4993,18 +4993,18 @@
     "createdAt": "2025-06-16T12:14:57.322Z"
   },
   {
-    "marque": "ADRET",
-    "model": "7100D",
+    "marque": "GW INSTEK",
+    "model": "GPT15004",
     "quantite": 1,
     "emplacement": "H-2",
     "unites": [
       {
-        "numserie": "386616",
+        "numserie": "GEY180038",
         "position": "H-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T12:15:39.175Z"
+    "createdAt": "2025-06-16T12:16:33.119Z"
   }
 ]
