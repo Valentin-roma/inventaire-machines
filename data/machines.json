@@ -5359,18 +5359,18 @@
     "createdAt": "2025-06-16T13:58:11.455Z"
   },
   {
-    "marque": "ANTRITSU",
-    "model": "OSLNF50-1",
+    "marque": "FLUKE",
+    "model": "DSXPLAA004",
     "quantite": 1,
     "emplacement": "M-3",
     "unites": [
       {
-        "numserie": "0928021",
+        "numserie": "24470404",
         "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-16T13:59:12.763Z"
+    "createdAt": "2025-06-16T14:00:26.014Z"
   }
 ]
