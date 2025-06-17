@@ -5109,5 +5109,20 @@
       }
     ],
     "createdAt": "2025-06-17T14:57:04.560Z"
+  },
+  {
+    "marque": "WANDEL & GOLTERMANN",
+    "model": "PF-J-8",
+    "quantite": 1,
+    "emplacement": "K-1",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "K-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:06:53.050Z"
   }
 ]
