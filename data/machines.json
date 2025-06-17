@@ -5139,5 +5139,20 @@
       }
     ],
     "createdAt": "2025-06-17T15:08:23.623Z"
+  },
+  {
+    "marque": "RS",
+    "model": "1384",
+    "quantite": 1,
+    "emplacement": "K-2",
+    "unites": [
+      {
+        "numserie": "140900177",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:09:21.851Z"
   }
 ]
