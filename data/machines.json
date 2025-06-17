@@ -4961,18 +4961,18 @@
     "createdAt": "2025-06-17T14:37:09.891Z"
   },
   {
-    "marque": "HAMEG",
-    "model": "HM8001-2",
+    "marque": "HP",
+    "model": "E4418B",
     "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
-        "numserie": "040550392",
+        "numserie": "MY45108396",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-17T14:37:55.909Z"
+    "createdAt": "2025-06-17T14:38:29.224Z"
   }
 ]
