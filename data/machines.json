@@ -4944,5 +4944,20 @@
       }
     ],
     "createdAt": "2025-06-17T14:33:57.943Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "AM503",
+    "quantite": 1,
+    "emplacement": "K-4",
+    "unites": [
+      {
+        "numserie": "204397",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T14:37:09.891Z"
   }
 ]
