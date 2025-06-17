@@ -5214,5 +5214,38 @@
       }
     ],
     "createdAt": "2025-06-17T15:18:40.822Z"
+  },
+  {
+    "marque": "ELGAR",
+    "model": "SW5250A",
+    "quantite": 4,
+    "emplacement": "L-1",
+    "unites": [
+      {
+        "numserie": "0005A1001",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "0103A1010",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "526",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "0016A1000",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:20:15.768Z"
   }
 ]
