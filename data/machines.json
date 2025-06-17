@@ -5223,26 +5223,26 @@
     "unites": [
       {
         "numserie": "0005A1001",
-        "position": "L-1",
         "etatcvi": "non",
+        "position": "L-1",
         "dateFinCVI": null
       },
       {
         "numserie": "0103A1010",
-        "position": "L-1",
         "etatcvi": "non",
+        "position": "L-1",
         "dateFinCVI": null
       },
       {
         "numserie": "526",
-        "position": "L-1",
         "etatcvi": "non",
+        "position": "L-1",
         "dateFinCVI": null
       },
       {
         "numserie": "0016A1000",
-        "position": "L-1",
         "etatcvi": "non",
+        "position": "L-1",
         "dateFinCVI": null
       }
     ],
