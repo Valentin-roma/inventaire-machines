@@ -4998,9 +4998,9 @@
     "unites": [
       {
         "numserie": "91J229126",
+        "etatcvi": "oui",
         "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2024-05-01"
       }
     ],
     "createdAt": "2025-06-17T14:41:08.814Z"
