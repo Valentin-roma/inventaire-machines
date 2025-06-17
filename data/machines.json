@@ -5199,5 +5199,20 @@
       }
     ],
     "createdAt": "2025-06-17T15:15:38.174Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "DG2020A",
+    "quantite": 1,
+    "emplacement": "L-1",
+    "unites": [
+      {
+        "numserie": "J311246",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:18:40.822Z"
   }
 ]
