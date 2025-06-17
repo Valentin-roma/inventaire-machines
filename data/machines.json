@@ -5006,18 +5006,18 @@
     "createdAt": "2025-06-17T14:41:08.814Z"
   },
   {
-    "marque": "WANDEL & GOLTERMANN",
-    "model": "PA-25",
+    "marque": "HP",
+    "model": "436A",
     "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
-        "numserie": "4542/02",
+        "numserie": "2031V01112",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-17T14:42:01.003Z"
+    "createdAt": "2025-06-17T14:42:42.920Z"
   }
 ]
