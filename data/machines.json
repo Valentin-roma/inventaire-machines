@@ -5051,18 +5051,18 @@
     "createdAt": "2025-06-17T14:46:12.880Z"
   },
   {
-    "marque": "BIRD",
-    "model": "4314B",
+    "marque": "HP",
+    "model": "4418B",
     "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
-        "numserie": "BOITE DE TRANSPORT",
+        "numserie": "GB41299789",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-17T14:46:58.084Z"
+    "createdAt": "2025-06-17T14:48:00.770Z"
   }
 ]
