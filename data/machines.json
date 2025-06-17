@@ -4932,14 +4932,14 @@
     "unites": [
       {
         "numserie": "C10324650",
-        "position": "K-4",
         "etatcvi": "non",
+        "position": "K-4",
         "dateFinCVI": null
       },
       {
         "numserie": "C70822187",
-        "position": "K-4",
         "etatcvi": "non",
+        "position": "K-4",
         "dateFinCVI": null
       }
     ],
