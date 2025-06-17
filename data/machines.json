@@ -2,7 +2,7 @@
   {
     "marque": "iuqs",
     "model": "xohw",
-    "quantite": 2,
+    "quantite": 3,
     "emplacement": "sqsq + qsd",
     "unites": [
       {
@@ -16,6 +16,12 @@
         "etatcvi": "non",
         "position": "qsd",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": ""
       }
     ],
     "createdAt": "2025-06-17T18:17:51.338Z"
