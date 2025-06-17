@@ -4963,11 +4963,17 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "K-4",
     "unites": [
       {
         "numserie": "MY45108396",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "GB41299786",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
