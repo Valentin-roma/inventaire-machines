@@ -4974,5 +4974,20 @@
       }
     ],
     "createdAt": "2025-06-17T14:38:29.224Z"
+  },
+  {
+    "marque": "BIRD",
+    "model": "43",
+    "quantite": 1,
+    "emplacement": "K-4",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T14:40:03.935Z"
   }
 ]
