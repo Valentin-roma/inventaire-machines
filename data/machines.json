@@ -5021,18 +5021,18 @@
     "createdAt": "2025-06-17T14:42:42.920Z"
   },
   {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "NRP-751",
+    "marque": "SIMPSON",
+    "model": "899",
     "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
-        "numserie": "100900",
+        "numserie": "001119",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-17T14:43:42.075Z"
+    "createdAt": "2025-06-17T14:44:31.577Z"
   }
 ]
