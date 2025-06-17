@@ -4963,17 +4963,11 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 2,
+    "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
         "numserie": "MY45108396",
-        "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "GB41299786",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -5040,5 +5034,20 @@
       }
     ],
     "createdAt": "2025-06-17T14:44:31.577Z"
+  },
+  {
+    "marque": "HP",
+    "model": "E4410B",
+    "quantite": 1,
+    "emplacement": "K-4",
+    "unites": [
+      {
+        "numserie": "MY45102367",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T14:46:12.880Z"
   }
 ]
