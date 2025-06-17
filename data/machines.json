@@ -5154,5 +5154,20 @@
       }
     ],
     "createdAt": "2025-06-17T15:09:21.851Z"
+  },
+  {
+    "marque": "XI LINX",
+    "model": "MODULE",
+    "quantite": 1,
+    "emplacement": "K-2",
+    "unites": [
+      {
+        "numserie": "PC EXPRESS 8 PIN",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:11:43.026Z"
   }
 ]
