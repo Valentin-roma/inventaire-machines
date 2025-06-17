@@ -5169,5 +5169,20 @@
       }
     ],
     "createdAt": "2025-06-17T15:11:43.026Z"
+  },
+  {
+    "marque": "ADDA",
+    "model": "VENTILLATEUR",
+    "quantite": 1,
+    "emplacement": "K-2",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T15:12:42.313Z"
   }
 ]
