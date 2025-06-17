@@ -5019,5 +5019,20 @@
       }
     ],
     "createdAt": "2025-06-17T14:42:42.920Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "NRP-751",
+    "quantite": 1,
+    "emplacement": "K-4",
+    "unites": [
+      {
+        "numserie": "100900",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T14:43:42.075Z"
   }
 ]
