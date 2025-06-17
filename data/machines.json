@@ -4923,5 +4923,26 @@
       }
     ],
     "createdAt": "2025-06-17T14:32:01.157Z"
+  },
+  {
+    "marque": "GRAPHTEC",
+    "model": "GL840-WV",
+    "quantite": 2,
+    "emplacement": "K-4",
+    "unites": [
+      {
+        "numserie": "C10324650",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "C70822187",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T14:33:57.943Z"
   }
 ]
