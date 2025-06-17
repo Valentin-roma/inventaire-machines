@@ -4991,18 +4991,18 @@
     "createdAt": "2025-06-17T14:40:03.935Z"
   },
   {
-    "marque": "BIRD",
-    "model": "BOUCHONS",
+    "marque": "YOKOGAWA",
+    "model": "WT210",
     "quantite": 1,
     "emplacement": "K-4",
     "unites": [
       {
-        "numserie": "ACCESSOIRES",
+        "numserie": "91J229126",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-17T14:40:28.825Z"
+    "createdAt": "2025-06-17T14:41:08.814Z"
   }
 ]
