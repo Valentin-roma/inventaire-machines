@@ -13,5 +13,20 @@
       }
     ],
     "createdAt": "2025-06-17T18:17:51.338Z"
+  },
+  {
+    "marque": "qsqdq",
+    "model": "qsdqs",
+    "quantite": 1,
+    "emplacement": "qsdqsd",
+    "unites": [
+      {
+        "numserie": "sqdqs",
+        "position": "qsdqsd",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-17T18:19:56.329Z"
   }
 ]
