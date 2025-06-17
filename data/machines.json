@@ -5103,9 +5103,9 @@
     "unites": [
       {
         "numserie": "9207-00570",
+        "etatcvi": "oui",
         "position": "K-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2025-05-01"
       }
     ],
     "createdAt": "2025-06-17T14:57:04.560Z"
