@@ -1,17 +1,17 @@
 [
   {
-    "marque": "TEKTRONIX",
-    "model": "APO34",
+    "marque": "ze",
+    "model": "zer",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "zerz",
     "unites": [
       {
-        "numserie": "C010128",
-        "position": "",
+        "numserie": "zer",
+        "position": "zerz",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-18T09:23:26.968Z"
+    "createdAt": "2025-06-18T09:29:39.993Z"
   }
 ]
