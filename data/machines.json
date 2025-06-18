@@ -5279,18 +5279,18 @@
     "createdAt": "2025-06-17T15:23:47.084Z"
   },
   {
-    "marque": "QSC",
-    "model": "QSCQ",
+    "marque": "TEKTRONIX",
+    "model": "3750",
     "quantite": 1,
     "emplacement": "",
     "unites": [
       {
-        "numserie": "WXCWXC",
+        "numserie": "zerzer",
         "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-18T10:23:03.678Z"
+    "createdAt": "2025-06-18T10:27:24.449Z"
   }
 ]
