@@ -1,17 +1,17 @@
 [
   {
-    "marque": "ze",
-    "model": "zer",
+    "marque": "sdgf",
+    "model": "sfd",
     "quantite": 1,
-    "emplacement": "zerz",
+    "emplacement": "",
     "unites": [
       {
-        "numserie": "zer",
-        "position": "zerz",
+        "numserie": "sdf",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-18T09:29:39.993Z"
+    "createdAt": "2025-06-18T09:58:28.838Z"
   }
 ]
